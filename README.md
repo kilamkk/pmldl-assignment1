@@ -47,6 +47,8 @@ python -m venv venv
 venv\Scripts\activate          # Windows
 # source venv/bin/activate     # Linux / macOS
 
+cd pmldl-assignment1
+
 # 2. install libraries
 pip install -r requirements.txt
 
